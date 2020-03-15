@@ -1,0 +1,19 @@
+{
+  "name": "spotify-import",
+  "version": "1.0.0",
+  "description": "Import local files to spotify playlists.",
+  "main": "spotify-import.js",
+  "dependencies": {
+    "csv-reader": "^1.0.3",
+    "csv-writer": "^1.5.0",
+    "esm": "^3.2.25",
+    "spotify-web-api-node": "^4.0.0",
+    "yargs": "^15.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
