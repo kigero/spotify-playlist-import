@@ -28,6 +28,7 @@ generated about a thousand playlists.
 ## Process
 
 Local files should be in a folder sorted by Genre/Artist/Album.  Files should be labeled as Track-Name.mp3.
+
 ![Local Files](local.png)
 
 
@@ -78,7 +79,7 @@ Local files should be in a folder sorted by Genre/Artist/Album.  Files should be
 At this point I had about a thousand playlists generated, which I then sorted by hand in to folders by genre.  This
    didn't take as long as it sounds like it would.  But it would be nice if Spotify had better support for managing
    large amount of playlists (e.g. multiple select).
-   
+
 ![Sorted Playlists](sorted.png)
 
 And that's that - now I can clean up the playlists over time and eventually get to something that works better for me.
